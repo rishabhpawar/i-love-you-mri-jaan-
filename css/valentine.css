@@ -50,4 +50,5 @@ margin: 5%;}
 padding: 20px;}
 .btn:hover{background-color: #398AB9;}
 
-
+@media (max-width: 768px) {
+  .er{display: block;}}
